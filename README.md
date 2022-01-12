@@ -1,4 +1,4 @@
-# manualtrigger_Githubaction_test
+# manualtrigger_GithubAction_test
 マニュアルでGitHubActionを起動できるかのテスト
 
 /.gitHub/workflows へと.ymlを格納。
